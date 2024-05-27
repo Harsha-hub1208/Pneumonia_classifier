@@ -1,0 +1,11 @@
+numpy
+pandas
+keras
+streamlit
+tensorflow
+matplotlib
+seaborn
+os
+cv2
+PIL
+Pillow
